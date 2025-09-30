@@ -1,3 +1,7 @@
+![](https://raw.githubusercontent.com/sancovp/seed-mcp/refs/heads/master/seed_small.png)
+
+[![Part of STARSYSTEM](https://img.shields.io/badge/Part%20of-STARSYSTEM-blue)](https://github.com/sancovp/starsystem-metarepo)
+
 # SEED MCP
 
 SEED - Unified System Identity for Compound Intelligence
